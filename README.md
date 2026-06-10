@@ -16,6 +16,7 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
  Active development by khaninkali @ HyperSecurity Offensive Labs
  Contributions, bug reports, and community feedback welcome.
 ```
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-OxideCE--v7.7.7ELITE-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Website](https://img.shields.io/badge/Website-HyperSecurity%20Labs-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://hypersecurityoffensivelabs-about.is-best.net/)
@@ -25,6 +26,8 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 [![Rust](https://img.shields.io/badge/Rust-2021%20Edition-00e676?style=for-the-badge&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![Issues](https://img.shields.io/badge/Issues-Report-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
 [![Releases](https://img.shields.io/badge/Releases-Download-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
+
+</div>
 
 
 **OXIDE Community Edition — v7.7.7-elite** · Open eXtensible Intelligence & Detection Engine · AI-Powered · Kali Linux Ready
