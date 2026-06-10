@@ -305,11 +305,11 @@ Vision:   apt install oxide on Kali Linux
 
 <div align="center">
 
-[![Star](https://img.shields.io/badge/⭐_Star_on_GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Website](https://img.shields.io/badge/⎈_Website-F0C500?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
-[![Telegram](https://img.shields.io/badge/✉_Telegram-D4B300?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/hypersecurity_offsec)
-[![Forums](https://img.shields.io/badge/⎈_Community_Forums-7DB800?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
-[![Rust](https://img.shields.io/badge/⚙_Download_Rust-00e676?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
+[![Star](https://img.shields.io/badge/⭐_Star_on_GitHub-BEAFEB?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Website](https://img.shields.io/badge/⎈_Website-64D2FF?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
+[![Telegram](https://img.shields.io/badge/✉_Telegram-64AAFF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/hypersecurity_offsec)
+[![Forums](https://img.shields.io/badge/⎈_Community_Forums-00C8B4?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
+[![Rust](https://img.shields.io/badge/⚙_Download_Rust-00B478?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
 
 **Built for Kali Linux · Targeting Official Repository Inclusion**
 
