@@ -1,11 +1,5 @@
 # OxideCE-v7.7.7elite
-<p align="center">
-  <a href="https://www.kali.org/">
-    <img src="https://www.kali.org/images/kali-dragon.svg" alt="Kali Linux" width="120"/>
-  </a>
-  <br>
-  <img src="../logo-cp77-yellow-en@2x-a95c56ad.png" alt="OXIDE CE" width="380"/>
-</p>
+
 
 <h1 align="center" style="color: #557C93; font-family: 'Courier New', monospace;">
   OXIDE — Community Edition <span style="color:#b388ff;">v7.7.7-elite</span>
