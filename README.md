@@ -19,7 +19,7 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 [![Issues](https://img.shields.io/badge/Issues-Report-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
 [![Discussions](https://img.shields.io/badge/Discussions-Community-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/discussions)
 
-### **OXIDE Community Edition — v7.7.7-elite**
+### **OXIDE-Cev7.7.7-elite**
 #### *Open eXtensible Intelligence & Detection Engine · AI-Powered · Kali Linux Ready*
 
 </div>
