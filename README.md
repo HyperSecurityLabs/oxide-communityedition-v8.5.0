@@ -3,8 +3,7 @@
 Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Kali Linux Ready
 <div align="center">
 
-```
-   ____       _     __   
+```____       _     __   
   / __ \_  __(_)___/ /__ 
  / / / / |/_/ / __  / _ \
 / /_/ />  </ / /_/ /  __/
