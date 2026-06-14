@@ -38,7 +38,7 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 
 </div>
 
-**OXIDE Community Edition — v7.7.7-elite** · Open eXtensible Intelligence & Detection Engine · AI-Powered · Kali Linux Ready
+**OXIDE Community Edition — v7.7.7-elite** · Open eXtensible Intelligence & Detection Engine·AI-Powered·Kali Linux Ready
 
 > **⭐ Support OXIDE for Kali Linux Official Repository** — Star on GitHub to help bring to Kali.
 
