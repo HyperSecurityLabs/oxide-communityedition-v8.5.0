@@ -26,13 +26,8 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 [![Platform](https://img.shields.io/badge/⌨_Windows_|_Linux-b388ff?style=for-the-badge&logo=linux&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Releases](https://img.shields.io/badge/📦_Downloads-64D2FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
 [![Website](https://img.shields.io/badge/⎈_Website-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
-<br>
-
 [![Kali](https://img.shields.io/badge/Kali_Linux-Ready-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
-
-> ⭐ Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
-
-</div>
+<br>
 
 <div align="left">
 
@@ -264,7 +259,6 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Banner gradient: Kali blue-grey → cyan → lavender
 - Duration timer excludes setup overhead
 - `--list-modules` no longer requires `--url`
-- Author line: khaninkali [Kali-Linux]
 
 **Fixed:**
 - Ctrl+C responsiveness — polls shutdown every 200ms
