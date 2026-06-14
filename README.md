@@ -1,10 +1,6 @@
 # OxideCE-v7.7.7ELITE.
 
 Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Kali Linux Ready
-```bash
-
-<img width="1440" height="900" alt="Screenshot_2026-06-11_10_01_10" src="https://github.com/user-attachments/assets/39146e24-3d91-4eb9-ae91-9bcc2a792a89" />
-
 <div align="center">
 
 ```
@@ -379,4 +375,5 @@ Vision:   apt install oxide on Kali Linux
 **Built for Kali Linux · Targeting Official Repository Inclusion**
 
 </div>
+
 
