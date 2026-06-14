@@ -22,11 +22,11 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 
 <br>
 
-[![Forums](https://img.shields.io/badge/Forums-Community-00C8B4?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
-[![Rust](https://img.shields.io/badge/Rust-2021%20Edition-64D2FF?style=for-the-badge&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
-[![Platform](https://img.shields.io/badge/Windows_|_Linux-b388ff?style=for-the-badge&logo=linux&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Releases](https://img.shields.io/badge/Releases-Download-64D2FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
-[![Website](https://img.shields.io/badge/Website-HyperSecurity%20Labs-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://hypersecurityoffensivelabs-about.is-best.net/)
+[![Forums](https://img.shields.io/badge/⎈_Community_Forums-00C8B4?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
+[![Rust](https://img.shields.io/badge/⚙_Rust-2021%20Edition-64D2FF?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
+[![Platform](https://img.shields.io/badge/⌨_Windows_|_Linux-b388ff?style=for-the-badge&logo=linux&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Releases](https://img.shields.io/badge/📦_Downloads-64D2FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
+[![Website](https://img.shields.io/badge/⎈_Website-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
 
 <br>
 
@@ -36,11 +36,7 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 
 ---
 
-> **⭐ Support OXIDE for Kali Linux Official Repository** — Star on GitHub to help bring `sudo apt install oxide` to Kali.
-
----
-
-<div align="center">
+<div align="left">
 
 [![About](https://img.shields.io/badge/About-OXIDE-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -58,7 +54,7 @@ Modular security toolkit combining traditional vulnerability scanning with ML-ba
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Integration-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
 
@@ -75,7 +71,7 @@ Complements `sqlmap` · `nmap` · `burpsuite` · `metasploit`
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Installation](https://img.shields.io/badge/Installation-Quick_Start-00d4ff?style=for-the-badge&logo=terminal&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -95,7 +91,7 @@ oxide --version   # → oxide 7.7.7-elite
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Usage](https://img.shields.io/badge/Usage-Reference-b388ff?style=for-the-badge&logo=terminal&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -115,7 +111,7 @@ oxide -u targets.txt --threads 50                                # From file
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Scanner Modules](https://img.shields.io/badge/Scanner_Modules-13_Engines-00e676?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -139,7 +135,7 @@ oxide -u targets.txt --threads 50                                # From file
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Zero-Day ML](https://img.shields.io/badge/Zero--Day_ML-Anomaly_Engine-ff6b6b?style=for-the-badge&logo=smart&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -163,7 +159,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Advanced](https://img.shields.io/badge/Advanced-Capabilities-00d4ff?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -185,7 +181,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![CLI Reference](https://img.shields.io/badge/CLI-Full_Reference-557C94?style=for-the-badge&logo=terminal&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -230,7 +226,7 @@ Config: `oxide-config.toml` for persistent settings.
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Reports](https://img.shields.io/badge/Reports-Formats-b388ff?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -247,7 +243,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Changelog](https://img.shields.io/badge/Changelog-v7.7.7--elite-00e676?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
 
@@ -282,7 +278,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Build](https://img.shields.io/badge/Build-Release-00d4ff?style=for-the-badge&logo=rust&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -305,7 +301,7 @@ cargo test                   # run tests
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Official_Repository_Integration-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
 
@@ -346,7 +342,7 @@ Every star brings OXIDE closer to `apt install oxide`. Report bugs, join the com
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Development](https://img.shields.io/badge/Development-Community_Driven-00d4ff?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
@@ -365,15 +361,11 @@ Vision:   apt install oxide on Kali Linux
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![Star](https://img.shields.io/badge/⭐_Star_on_GitHub-b388ff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Website](https://img.shields.io/badge/⎈_Website-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Telegram](https://img.shields.io/badge/✉_Telegram-64D2FF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/hypersecurity_offsec)
 [![Forums](https://img.shields.io/badge/⎈_Community_Forums-b388ff?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 
-**Built for Kali Linux · Targeting Official Repository Inclusion**
-
 </div>
-
-
