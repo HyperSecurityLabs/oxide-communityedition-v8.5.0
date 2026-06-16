@@ -14,8 +14,6 @@
 *Forged by khaninkali · Designed by LYARA-Koroleva · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
-</div>
-
 [![Forums](https://img.shields.io/badge/⎈_Community-Forums-64D2FF?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=557C94)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/⚙_Rust-2021_Ed-FF4757?style=for-the-badge&logo=rust&logoColor=000000&labelColor=FF6B35)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/⌨_Win│Linux-Support-64D2FF?style=for-the-badge&logo=linux&logoColor=000000&labelColor=557C94)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
@@ -26,6 +24,7 @@
 [![LYARA-Koroleva](https://img.shields.io/badge/👑_LYARA‑Koroleva-Designer-7D5FFF?style=for-the-badge&logo=pinboard&logoColor=ffffff&labelColor=B4A0FF)](https://github.com/lyara)
 > ⭐ Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
+</div>
 ---
 
 <div align="left">
