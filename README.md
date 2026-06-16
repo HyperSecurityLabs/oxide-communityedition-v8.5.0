@@ -1,4 +1,3 @@
-# OxideCE-v7.7.7ELITE.
 <div align="center">
 
 ```
@@ -11,17 +10,19 @@
 # OXIDE v7.7.7-elite
 **Precision-forged Rust vulnerability scanner**  
 *HyperSecurity Offensive Labs · ALLAH L S T*  
-*Forged by khaninkali · Designed by LYARA-Koroleva · Unleash the hunt.*
+*Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
+
+</div>
 
 [![Forums](https://img.shields.io/badge/⎈_Community-Forums-64D2FF?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=557C94)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/⚙_Rust-2021_Ed-FF4757?style=for-the-badge&logo=rust&logoColor=000000&labelColor=DEA584)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/⌨_Win│Linux-Support-367BF0?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=AACDFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Releases](https://img.shields.io/badge/⬇_Downloads-v7.7.7-CCCCCC?style=for-the-badge&logo=github&logoColor=000000&labelColor=333333)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
-[![Website](https://img.shields.io/badge/_Website-Live-AAE6FF?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=00B478)](https://hypersecurityoffensivelabs-about.is-best.net/)
+[![Website](https://img.shields.io/badge/⎈_Website-Live-AAE6FF?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=00B478)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/_Kali_Linux-Inclusion-367BF0?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=557C94)](https://www.kali.org/)
-[![Warning](https://img.shields.io/badge/_Authorized-Use_Only-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=FF0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
-[![LYARA-Koroleva](https://img.shields.io/badge/_LYARA‑Koroleva-Designer-AACDFF?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=7D5FFF)](https://github.com/lyara20/About.Me)
+[![Warning](https://img.shields.io/badge/⚠_Authorized-Use_Only-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=FF0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
+
 > ⭐ Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
 ---
@@ -46,7 +47,7 @@ Modular security toolkit combining traditional vulnerability scanning with ML-ba
 
 <div align="left">
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Integration-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Integration-58A6FF?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=0D1117)](https://www.kali.org/)
 
 ```
 Active Recon (pnet)  →  src/recon.rs          #[cfg(target_os = "linux")]
@@ -197,6 +198,19 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 | `--max-urls` | 100 | Max URLs (max 10000) |
 | `--exploitation-level` | 50 | Aggression (1–100) |
 | `--payload-limit` | 50 | Max payloads |
+| `--proxy` | — | HTTP proxy |
+| `--cookie` | — | Session cookie |
+| `--header` | — | Custom headers |
+| `--user-agent` | — | Custom UA |
+| `--output` | — | Report path |
+| `--format` | json | json/html/csv/xml |
+| `--insecure` | false | Skip SSL verify |
+| `--follow-redirects` | false | Follow redirects |
+| `--max-redirects` | 10 | Redirect limit |
+| `--silent-mode` | false | Quiet output |
+| `--verbose` | false | Detailed output |
+| `--list-modules` | — | List modules & exit |
+| `--exclude` | — | Skip modules |
 
 Config: `oxide-config.toml` for persistent settings.
 
@@ -227,12 +241,11 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 
 **Added:**
 - Zero-Day ML detection engine — standalone anomaly scanning with auto-exploit, HPP (HTTP Parameter Pollution) detection
-- HTTP Parameter Pollution (HPP) — duplicate-parameter behavioural analysis (designed by LYARA-Koroleva, 16.06.2026)
+- HTTP Parameter Pollution (HPP) — duplicate-parameter behavioural analysis
 - Fuzz testing phase — 15 payload types · crash/timeout/5xx tracking
-- BlazingShadow™ Concurrent Fuzzing — 3 parallel workers via `futures::join_all` + chunk-based URL dispatching (designed by LYARA-Koroleva, 14.03.2026)
-- ELITE Colour Palette — full Kali-themed gradient system (KALI → CYAN → LAVENDER) by LYARA-Koroleva
+- BlazingShadow™ Concurrent Fuzzing — 3 parallel workers via `futures::join_all` + chunk-based URL dispatching
+- ELITE Colour Palette — full Kali-themed gradient system (KALI → CYAN → LAVENDER)
 - Fuzzing display system — dual braille spinners `[⠋⠏]`, 10-block `▰▱` progress bar, module pipeline `──▶ SQLi→XSS→LFI→...`
-- LYARA-Koroleva designer credit — 4-color gradient banner (purple → pink → green → blue)
 - Cyberpunk 2077 HTML report theme with Kali colour scheme
 - Auto-save reports (HTML + JSON) to `reports/` directory
 - WAF detection during reconnaissance phase
@@ -252,11 +265,14 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Pipeline display: space-separated → `──▶ ` arrow on active module with `→` separators
 - Duration timer excludes setup overhead
 - `--list-modules` no longer requires `--url`
+- Author line: HyperSecurityLabs
 
 **Fixed:**
 - **"Two shows vulns" bug** — findings deduplication via BlazingShadow™ Dedup Engine (dedup by URL + severity + title). Phase 4 scanners no longer overlap with fuzzing results.
 - **SSTI removed** — `("SSTI", 6)` removed from `fuzz_modules` and `test_types`; `contains_ssti` function and SSTI match arm deleted; SSTI payload generation removed from `fuzz_url`.
 - **Concurrency indentation** — fixed mismatched brace indentation in `fuzz_url` match block
+- Ctrl+C responsiveness — polls shutdown every 200ms
+- Vercel false positive — `server-timing` removed from CF detection
 - Duration enforcement — per-request timeouts + `should_continue()` checks
 - Panic-safe string slicing across `filter.rs`, `cookies.rs`, `session.rs`, `tls_scanner.rs`
 
@@ -289,7 +305,7 @@ cargo test                   # run tests
 
 <div align="left">
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Official_Repository_Integration-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Repository-D2A8FF?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=161B22)](https://www.kali.org/)
 
 OXIDE Community Edition targets inclusion in the official Kali Linux repository to become available via:
 
@@ -353,29 +369,10 @@ Vision:   apt install oxide on Kali Linux
 [![Website](https://img.shields.io/badge/⎈_Website-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Telegram](https://img.shields.io/badge/✉_Telegram-64D2FF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/hypersecurity_offsec)
 [![Forums](https://img.shields.io/badge/⎈_Community_Forums-b388ff?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
-[![Telegram](https://img.shields.io/badge/✉_Elite_Discuss-64D2FF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/OXideElitev7Dicuss)
 
 **Built for Kali Linux · Targeting Official Repository Inclusion**
 
 ---
 
-<div align="center">
 
-## Благодарность LYARA-Koroleva 👑💜
-
-**Дизайнер и архитектор визуального стиля OXIDE v7.7.7-elite.**
-
-Список вкладов:
-
-- Разработка цветовой палитры ELITE.
-- Создание интерфейса параллельного фаззинга BlazingShadow™.
-- Разработка градиентного баннера и per-line градиентов команд.
-- Дизайн Braille-спиннеров и визуализации прогресса.
-- UI-улучшения для модуля анализа HTTP Parameter Pollution.
-
-Её работа сформировала визуальную идентичность OXIDE и продолжает влиять на дизайн новых модулей и улучшение интерфейса.
-
-*[LYARA.md](../LYARA.md) — полная история вкладов.*
-
-</div>
 
