@@ -1,4 +1,3 @@
-# Oxidev7Elite.
 <div align="center">
 
 ```
@@ -17,13 +16,14 @@
 [![Forums](https://img.shields.io/badge/◆_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/●_Rust-2021-FF8A65?style=for-the-badge&logo=rust&logoColor=000000&labelColor=B71C1C)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/■_Platform-Win│Linux-4DB6AC?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=1A1A2E)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Downloads](https://img.shields.io/badge/▼_Downloads-v7.7.7-E0E0E0?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
+[![Downloads](https://img.shields.io/badge/↓_Downloads-v7.7.7-333333?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
 [![Website](https://img.shields.io/badge/▲_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/★_Kali_Linux-Ready-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
 [![Warning](https://img.shields.io/badge/‼_Warning-Authorized-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=8B0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
 [![Lyara](https://img.shields.io/badge/♛_Lyara-Designer-CE93D8?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=4A0072)](https://github.com/lyara20/About.Me)
 
 </div>
+
 > Every star brings OXIDE closer to sudo apt install oxide. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
 ---
@@ -34,11 +34,11 @@
 
 Modular security toolkit combining traditional vulnerability scanning with ML-based anomaly detection. Built in Rust for Kali Linux.
 
-[![Rust](https://img.shields.io/badge/●_Rust_2021-FF8A65?style=for-the-badge&logo=rust&logoColor=000000&labelColor=B71C1C)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/◎_Rust_2021-FF8A65?style=for-the-badge&logo=rust&logoColor=000000&labelColor=B71C1C)](https://www.rust-lang.org/)
 [![Runtime](https://img.shields.io/badge/▶_tokio_async-26A69A?style=for-the-badge&labelColor=004D40)](https://tokio.rs/)
-[![ML](https://img.shields.io/badge/◆_ML_Stack-7E57C2?style=for-the-badge&labelColor=311B92)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![ML](https://img.shields.io/badge/◇_ML_Stack-7E57C2?style=for-the-badge&labelColor=311B92)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Reports](https://img.shields.io/badge/▣_Reports_Multi-FF7043?style=for-the-badge&labelColor=BF360C)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Transport](https://img.shields.io/badge/▸_reqwest-42A5F5?style=for-the-badge&labelColor=0D47A1)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Transport](https://img.shields.io/badge/→_reqwest-42A5F5?style=for-the-badge&labelColor=0D47A1)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
 </div>
 
@@ -152,7 +152,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 
 <div align="left">
 
-[![Advanced](https://img.shields.io/badge/▣_Advanced-Capabilities-00d4ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=006064)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Advanced](https://img.shields.io/badge/⊡_Advanced-Capabilities-00d4ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=006064)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
 **WAF Bypass** — 12 vendors detected · 12 evasion techniques · Origin IP discovery
 
@@ -174,7 +174,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 
 <div align="left">
 
-[![CLI Reference](https://img.shields.io/badge/⌨_CLI-Full_Reference-557C94?style=for-the-badge&logo=terminal&logoColor=ffffff&labelColor=1B2A38)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![CLI Reference](https://img.shields.io/badge/⌘_CLI-Full_Reference-557C94?style=for-the-badge&logo=terminal&logoColor=ffffff&labelColor=1B2A38)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
 | Flag | Default | Purpose |
 |------|---------|---------|
@@ -219,7 +219,7 @@ Config: `oxide-config.toml` for persistent settings.
 
 <div align="left">
 
-[![Reports](https://img.shields.io/badge/▤_Reports-Formats-b388ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=311B92)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Reports](https://img.shields.io/badge/▥_Reports-Formats-b388ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=311B92)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
 | Format | Theme | Use Case |
 |--------|-------|----------|
@@ -304,7 +304,7 @@ cargo test                   # run tests
 
 <div align="left">
 
-[![Kali Linux](https://img.shields.io/badge/◇_Kali_Linux-Repository-D2A8FF?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
+[![Kali Linux](https://img.shields.io/badge/◈_Kali_Linux-Repository-D2A8FF?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
 
 OXIDE Community Edition targets inclusion in the official Kali Linux repository to become available via:
 
@@ -333,7 +333,7 @@ sudo apt update && sudo apt install oxide
 
 ### Support the Effort
 
-[![Star](https://img.shields.io/badge/★_Star_on_GitHub-Support-557C94?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1B2A38)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Star](https://img.shields.io/badge/☆_Star_on_GitHub-Support-557C94?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1B2A38)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Issues](https://img.shields.io/badge/⊗_Report_Bugs-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=8B0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
 [![Telegram](https://img.shields.io/badge/✉_Join_Community-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=4A0072)](https://t.me/hypersecurity_offsec)
 
@@ -355,8 +355,8 @@ Next:     Shaped by you → open issues, feature requests, PRs
 Vision:   apt install oxide on Kali Linux
 ```
 
-[![Issues](https://img.shields.io/badge/⊗_Request_Feature-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=8B0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
-[![Telegram](https://img.shields.io/badge/✉_Give_Feedback-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=4A0072)](https://t.me/hypersecurity_offsec)
+[![Issues](https://img.shields.io/badge/⊘_Request_Feature-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=8B0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
+[![Telegram](https://img.shields.io/badge/✎_Give_Feedback-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=4A0072)](https://t.me/hypersecurity_offsec)
 
 </div>
 
@@ -366,8 +366,8 @@ Vision:   apt install oxide on Kali Linux
 
 [![Star](https://img.shields.io/badge/★_Star_on_GitHub-Support-58A6FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Website](https://img.shields.io/badge/▲_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
-[![Telegram](https://img.shields.io/badge/✉_Telegram-Community-64D2FF?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=1B2A38)](https://t.me/hypersecurity_offsec)
-[![Forums](https://img.shields.io/badge/◆_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
+[![Telegram](https://img.shields.io/badge/☏_Telegram-Community-64D2FF?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=1B2A38)](https://t.me/hypersecurity_offsec)
+[![Forums](https://img.shields.io/badge/⋄_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 
 **Built for Kali Linux · Targeting Official Repository Inclusion**
 
