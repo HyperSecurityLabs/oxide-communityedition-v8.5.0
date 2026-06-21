@@ -280,8 +280,6 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - BlazingShadow™ Concurrent Fuzzing — 3 parallel workers via `futures::join_all` + chunk-based URL dispatching
 - ELITE Colour Palette — full Kali-themed gradient system (KALI → CYAN → LAVENDER)
 - Fuzzing display system — dual braille spinners `[⠋⠏]`, 10-block `▰▱` progress bar, module pipeline `──▶ SQLi→XSS→LFI→...`
-- Cyberpunk 2077 HTML report theme with Kali colour scheme
-- Auto-save reports (HTML + JSON) to `reports/` directory
 - WAF detection during reconnaissance phase
 - Per-request timeout (10s) · per-exploit timeout (8s)
 - Headless Chrome JS crawling (`--headless`)
@@ -291,7 +289,8 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Instagram OSINT module
 - Session hijack testing · scan checkpoint/resume (`--resume`)
 - Multi-target concurrent scan (`--multiattack`)
-
+- A Custom Gui Interface ***NEW**
+  
 **Changed:**
 - Banner gradient: Kali blue-grey → cyan → lavender (full gradient separator + per-line command gradient)
 - Fuzzing: replaced sequential URL loop with concurrent chunks(3) + join_all — ~3x speedup
