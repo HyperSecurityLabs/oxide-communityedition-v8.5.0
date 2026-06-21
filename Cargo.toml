@@ -7,7 +7,7 @@ exclude = ["target"]
 
 [package]
 name = "oxide"
-version = "7.7.7-elite"
+version = "7.9.1-elite"
 edition = "2021"
 authors = ["khaninkali | HyperSecurityLabs"]
 description = "OXIDE - Open eXtensible Intelligence & Detection Engine — Community Edition"
