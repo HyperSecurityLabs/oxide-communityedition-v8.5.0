@@ -24,7 +24,6 @@
 Modular security toolkit combining traditional vulnerability scanning with ML-based anomaly detection. Built in Rust for Kali Linux.
 
 [![Rust](https://img.shields.io/badge/◎_Rust_2021-FF8A65?style=for-the-badge&logo=rust&logoColor=000000&labelColor=B71C1C)](https://www.rust-lang.org/)
-[![Runtime](https://img.shields.io/badge/▶_tokio_async-26A69A?style=for-the-badge&labelColor=004D40)](https://tokio.rs/)
 [![ML](https://img.shields.io/badge/◇_ML_Stack-7E57C2?style=for-the-badge&labelColor=311B92)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 [![Reports](https://img.shields.io/badge/▣_Reports_Multi-FF7043?style=for-the-badge&labelColor=BF360C)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
