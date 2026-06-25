@@ -110,7 +110,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI · WAF Bypass (12 vendors)
 <img width="1440" height="900" alt="Screenshot_2026-06-25_09_52_28" src="https://github.com/user-attachments/assets/a7dcee0b-7cd7-4792-9260-c31319a72d4e" />
 
 A frameless, neon-drenched desktop app that makes you feel like you're in a cyberdeck from 2077. WRY + TAO under the hood. Scan presets, live terminal console, module toggles, and an About modal that tells you exactly how illegal your scan is.
-> Native desktop GUI built with **WRY** (WebView2/WebKit) + **TAO** (windowing). Frameless window, scan presets, config panel, module toggles, live terminal console, status badge, About modal. Keyboard shortcuts: `Ctrl+Enter` start, `Escape` stop, `F12` DevTools.
+> Native desktop GUI built with **WRY** (WebView2/WebKit) + **TAO** (windowing). Frameless window, scan presets, config panel, module toggles, live terminal console, status badge, About modal.
 
 ```bash
 cd gui && cargo build --release && sudo cp target/release/oxide-gui /usr/local/bin/ && oxide-gui
