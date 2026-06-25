@@ -14,9 +14,16 @@
 [![Lyara](https://img.shields.io/badge/♛_Lyara-Designer-CE93D8?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=4A0072)](https://github.com/lyara20/About.Me)
 
 </div>
+## The Philosophy
+
+> **"Scan everything. Trust nothing. Patch accordingly."**
+
+Built with 🦀 Rust. Forged in the offensive security trenches. Fueled by late nights and Levenshtein distance calculations.
+
+**HyperSecurityLabs · khaninkali · Lyara-Koroleva**
 
 > Every star brings OXIDE closer to sudo apt install oxide. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
-
+This is the last freely-available Community Edition. Future development moves exclusively to OXIDE Pro Edition. Every star on GitHub brings OXIDE closer to `sudo apt install oxide` on Kali Linux.
 ---
 
 [![About](https://img.shields.io/badge/◈_About-OXIDE-557C94?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1B2A38)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
