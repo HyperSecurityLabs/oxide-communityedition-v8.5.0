@@ -3,6 +3,7 @@
 *HyperSecurity Offensive Labs ·*  
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
+> Note to install rust and compile All the source files use build-ultimate.sh
 
 <img width="1440" height="900" alt="Screenshot_2026-06-28_11_22_58" src="https://github.com/user-attachments/assets/aec41a0f-2b88-4f06-8601-dcc55a83313f" />
 
