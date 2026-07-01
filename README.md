@@ -1,18 +1,18 @@
->OXIDE v8.6.9community-edition
+# OXIDE v8.6.9community-edition
 **Precision-forged Rust vulnerability scanner**  
 *HyperSecurity Offensive Labs ·*  
 *Forged by HyperSecurityLabs · Unleash the hunt.*  
 * Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster · 和色 Palette
 
-[![GUI](https://img.shields.io/badge/_GUI-Launch_OXIDE-E83929?style=for-the-badge&logo=electron&logoColor=000000&labelColor=6A001A)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
-[![Forums](https://img.shields.io/badge/_Forums-Community-38B48B?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=002D20)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
-[![Rust](https://img.shields.io/badge/_Rust-2021-FFB11B?style=for-the-badge&logo=rust&logoColor=000000&labelColor=8B3A00)](https://www.rust-lang.org/)
-[![Platform](https://img.shields.io/badge/_Platform-WinLinux-2EA9DF?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=0A1A2E)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
-[![Downloads](https://img.shields.io/badge/_Downloads-v8.6.9-91989F?style=for-the-badge&logo=github&logoColor=000000&labelColor=ECEFF1)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
-[![Website](https://img.shields.io/badge/_Website-HyperSec-38B48B?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=002B1A)](https://hypersecurityoffensivelabs-about.is-best.net/)
-[![Kali](https://img.shields.io/badge/_Kali_Linux-Ready-165E83?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=0A1A2E)](https://www.kali.org/)
-[![Warning](https://img.shields.io/badge/‼_Warning-Authorized-E83929?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=4A0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
-[![Lyara](https://img.shields.io/badge/_Lyara-Designer-8B81C3?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=2A0040)](https://github.com/lyara20/About.Me)
+[![GUI](https://img.shields.io/badge/_GUI-Launch_OXIDE-E83929?style=for-the-badge&logo=electron&logoColor=FFF&labelColor=FFE8E0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
+[![Forums](https://img.shields.io/badge/_Forums-Community-38B48B?style=for-the-badge&logo=discourse&logoColor=FFF&labelColor=E8F5E8)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
+[![Rust](https://img.shields.io/badge/_Rust-2021-FFB11B?style=for-the-badge&logo=rust&logoColor=FFF&labelColor=FFF8E0)](https://www.rust-lang.org/)
+[![Platform](https://img.shields.io/badge/_Platform-WinLinux-2EA9DF?style=for-the-badge&logo=linux&logoColor=FFF&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Downloads](https://img.shields.io/badge/_Downloads-v8.6.9-91989F?style=for-the-badge&logo=github&logoColor=FFF&labelColor=F0F0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
+[![Website](https://img.shields.io/badge/_Website-HyperSec-38B48B?style=for-the-badge&logo=google-chrome&logoColor=FFF&labelColor=E8F5E8)](https://hypersecurityoffensivelabs-about.is-best.net/)
+[![Kali](https://img.shields.io/badge/_Kali_Linux-Ready-165E83?style=for-the-badge&logo=kalilinux&logoColor=FFF&labelColor=E8F0F8)](https://www.kali.org/)
+[![Warning](https://img.shields.io/badge/‼_Warning-Authorized-D7003A?style=for-the-badge&logo=bugatti&logoColor=FFF&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
+[![Lyara](https://img.shields.io/badge/_Lyara-Designer-8B81C3?style=for-the-badge&logo=pinboard&logoColor=FFF&labelColor=F5F0FA)](https://github.com/lyara20/About.Me)
 
 </div>
 
@@ -20,18 +20,18 @@
 
 ---
 
-[![About](https://img.shields.io/badge/_About-OXIDE-165E83?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0A1A2E)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![About](https://img.shields.io/badge/_About-OXIDE-165E83?style=for-the-badge&logo=github&logoColor=FFF&labelColor=E8F0F8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 Modular security toolkit combining traditional vulnerability scanning with ML-based anomaly detection. Built in Rust for Kali Linux.
 
-[![Rust](https://img.shields.io/badge/_Rust_2021-FFB11B?style=for-the-badge&logo=rust&logoColor=000000&labelColor=8B3A00)](https://www.rust-lang.org/)
-[![Runtime](https://img.shields.io/badge/_tokio_async-38B48B?style=for-the-badge&labelColor=002D20)](https://tokio.rs/)
-[![ML](https://img.shields.io/badge/_ML_Stack-5B6ABF?style=for-the-badge&labelColor=1A0050)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
-[![Reports](https://img.shields.io/badge/_Reports_Multi-FFB11B?style=for-the-badge&labelColor=8B3A00)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Rust](https://img.shields.io/badge/_Rust_2021-FFB11B?style=for-the-badge&logo=rust&logoColor=FFF&labelColor=FFF8E0)](https://www.rust-lang.org/)
+[![Runtime](https://img.shields.io/badge/_tokio_async-38B48B?style=for-the-badge&labelColor=E8F5E8)](https://tokio.rs/)
+[![ML](https://img.shields.io/badge/_ML_Stack-5B6ABF?style=for-the-badge&labelColor=EDEAF8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Reports](https://img.shields.io/badge/_Reports_Multi-FFB11B?style=for-the-badge&labelColor=FFF8E0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 ---
 
-[![Installation](https://img.shields.io/badge/_Installation-Quick_Start-2EA9DF?style=for-the-badge&logo=terminal&logoColor=ffffff&labelColor=004060)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Installation](https://img.shields.io/badge/_Installation-Quick_Start-2EA9DF?style=for-the-badge&logo=terminal&logoColor=FFF&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 ```bash
 sudo apt install -y build-essential pkg-config libssl-dev cmake
@@ -44,7 +44,7 @@ sudo cp target/release/oxide /usr/local/bin/
 
 ---
 
-[![Usage](https://img.shields.io/badge/_Usage-Reference-5B6ABF?style=for-the-badge&logo=terminal&logoColor=ffffff&labelColor=1A0050)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Usage](https://img.shields.io/badge/_Usage-Reference-5B6ABF?style=for-the-badge&logo=terminal&logoColor=FFF&labelColor=EDEAF8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 ```bash
 oxide --url https://example.com --modules all --duration 120    # Full scan
@@ -57,7 +57,7 @@ oxide -u targets.txt --threads 50                                # From file
 
 ---
 
-[![Scanner Modules](https://img.shields.io/badge/_Scanner_Modules-13_Engines-38B48B?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=002D20)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Scanner Modules](https://img.shields.io/badge/_Scanner_Modules-13_Engines-38B48B?style=for-the-badge&logo=github&logoColor=FFF&labelColor=E8F5E8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 | Module | Detection | Module | Detection |
 |--------|-----------|--------|-----------|
@@ -70,7 +70,7 @@ oxide -u targets.txt --threads 50                                # From file
 
 ---
 
-[![Zero-Day ML](https://img.shields.io/badge/_Zero--Day_ML-Anomaly_Engine-D7003A?style=for-the-badge&logo=smart&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Zero-Day ML](https://img.shields.io/badge/_Zero--Day_ML-Anomaly_Engine-D7003A?style=for-the-badge&logo=smart&logoColor=FFF&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 **Pipeline:** Crawl → ML Analysis + Auto-Exploit → Fuzz (15 payloads) → HPP Detection → Report
 
@@ -86,7 +86,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI · WAF Bypass (12 vendors)
 
 ---
 
-[![Advanced](https://img.shields.io/badge/_Advanced-Capabilities-2EA9DF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=004060)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Advanced](https://img.shields.io/badge/_Advanced-Capabilities-2EA9DF?style=for-the-badge&logo=github&logoColor=FFF&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 **Session & Auth** — Cookie, Bearer, Basic, API Key, JWT, OAuth2 · Hijack testing
 **JS Crawling** — Headless Chrome · SPA routes · JS URL extraction
@@ -97,7 +97,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI · WAF Bypass (12 vendors)
 
 ---
 
-[![GUI Frontend](https://img.shields.io/badge/_GUI_Frontend-Desktop_App-D7003A?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=400000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![GUI Frontend](https://img.shields.io/badge/_GUI_Frontend-Desktop_App-D7003A?style=for-the-badge&logo=electron&logoColor=FFF&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 Native desktop GUI built with **WRY** (WebView2/WebKit) + **TAO** (windowing). Frameless window, scan presets, config panel, module toggles, live terminal console, status badge, About modal. Keyboard shortcuts: `Ctrl+Enter` start, `Escape` stop, `F12` DevTools.
 
@@ -107,7 +107,7 @@ cd gui && cargo build --release && sudo cp target/release/oxide-gui /usr/local/b
 
 ---
 
-[![CLI Reference](https://img.shields.io/badge/_CLI-Full_Reference-165E83?style=for-the-badge&logo=terminal&logoColor=ffffff&labelColor=0A1A2E)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![CLI Reference](https://img.shields.io/badge/_CLI-Full_Reference-165E83?style=for-the-badge&logo=terminal&logoColor=FFF&labelColor=E8F0F8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 | Flag | Default | Purpose | Flag | Default | Purpose |
 |------|---------|---------|------|---------|---------|
@@ -128,7 +128,7 @@ Config: `oxide-config.toml` for persistent settings.
 
 ---
 
-[![Reports](https://img.shields.io/badge/_Reports-Formats-5B6ABF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1A0050)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Reports](https://img.shields.io/badge/_Reports-Formats-5B6ABF?style=for-the-badge&logo=github&logoColor=FFF&labelColor=EDEAF8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 | Format | Theme | Use Case |
 |--------|-------|----------|
@@ -141,7 +141,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 
 ---
 
-[![Changelog](https://img.shields.io/badge/_Changelog-v8.6.9--community-38B48B?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=002D20)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
+[![Changelog](https://img.shields.io/badge/_Changelog-v8.6.9--community-38B48B?style=for-the-badge&logo=github&logoColor=FFF&labelColor=E8F5E8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
 
 **v8.6.9 — 和色 (Washoku) Edition:**
 
@@ -167,7 +167,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 
 ---
 
-[![Build](https://img.shields.io/badge/_Build-Release-2EA9DF?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=004060)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Build](https://img.shields.io/badge/_Build-Release-2EA9DF?style=for-the-badge&logo=rust&logoColor=FFF&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 ```bash
 cargo build --release   # opt-level=3, LTO=fat, stripped, panic=abort
@@ -183,7 +183,7 @@ oxide-ce-debian/ DEB packaging · arch-pkg/  Arch packaging
 
 ---
 
-[![Kali Linux](https://img.shields.io/badge/_Kali_Linux-Repository-5B6ABF?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=0A1A2E)](https://www.kali.org/)
+[![Kali Linux](https://img.shields.io/badge/_Kali_Linux-Repository-5B6ABF?style=for-the-badge&logo=kalilinux&logoColor=FFF&labelColor=EDEAF8)](https://www.kali.org/)
 
 Targeting official Kali Linux repository: `sudo apt update && sudo apt install oxide`
 
@@ -197,12 +197,12 @@ Targeting official Kali Linux repository: `sudo apt update && sudo apt install o
 
 **Why Kali?** Rust-native (`tokio`), complements `sqlmap`/`nmap`/`burpsuite`/`metasploit`, ML anomaly detection, single binary, active recon via `pnet`.
 
-[![Issues](https://img.shields.io/badge/_Report_Bugs-D7003A?style=for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
-[![Telegram](https://img.shields.io/badge/_Join_Community-5B6ABF?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=1A0050)](https://t.me/hypersecurity_offsec)
+[![Issues](https://img.shields.io/badge/_Report_Bugs-D7003A?style=for-the-badge&logo=bugatti&logoColor=FFF&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
+[![Telegram](https://img.shields.io/badge/_Join_Community-5B6ABF?style=for-the-badge&logo=telegram&logoColor=FFF&labelColor=EDEAF8)](https://t.me/hypersecurity_offsec)
 
 ---
 
-[![Development](https://img.shields.io/badge/_Development-Community_Driven-2EA9DF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=004060)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Development](https://img.shields.io/badge/_Development-Community_Driven-2EA9DF?style=for-the-badge&logo=github&logoColor=FFF&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 ```
 Latest:   v8.6.9community-edition — 和色 palette, socket2 TLS, washoku UI
@@ -210,17 +210,17 @@ Next:     Shaped by you — open issues, feature requests, PRs
 Vision:   apt install oxide on Kali Linux
 ```
 
-[![Issues](https://img.shields.io/badge/_Request_Feature-D7003A?style=for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
-[![Telegram](https://img.shields.io/badge/_Give_Feedback-5B6ABF?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=1A0050)](https://t.me/hypersecurity_offsec)
+[![Issues](https://img.shields.io/badge/_Request_Feature-D7003A?style=for-the-badge&logo=bugatti&logoColor=FFF&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
+[![Telegram](https://img.shields.io/badge/_Give_Feedback-5B6ABF?style=for-the-badge&logo=telegram&logoColor=FFF&labelColor=EDEAF8)](https://t.me/hypersecurity_offsec)
 
 ---
 
 <div align="center">
 
-[![Star](https://img.shields.io/badge/_Star_on_GitHub-Support-2EA9DF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0A1A2E)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
-[![Website](https://img.shields.io/badge/_Website-HyperSec-38B48B?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=002B1A)](https://hypersecurityoffensivelabs-about.is-best.net/)
-[![Telegram](https://img.shields.io/badge/_Telegram-Community-2EA9DF?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=0A1A2E)](https://t.me/hypersecurity_offsec)
-[![Forums](https://img.shields.io/badge/_Forums-Community-38B48B?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=002D20)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
+[![Star](https://img.shields.io/badge/_Star_on_GitHub-Support-2EA9DF?style=for-the-badge&logo=github&logoColor=FFF&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Website](https://img.shields.io/badge/_Website-HyperSec-38B48B?style=for-the-badge&logo=google-chrome&logoColor=FFF&labelColor=E8F5E8)](https://hypersecurityoffensivelabs-about.is-best.net/)
+[![Telegram](https://img.shields.io/badge/_Telegram-Community-2EA9DF?style=for-the-badge&logo=telegram&logoColor=FFF&labelColor=E8F4FD)](https://t.me/hypersecurity_offsec)
+[![Forums](https://img.shields.io/badge/_Forums-Community-38B48B?style=for-the-badge&logo=discourse&logoColor=FFF&labelColor=E8F5E8)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 
 **Built for Kali Linux · Targeting Official Repository Inclusion**
 
@@ -230,13 +230,13 @@ Vision:   apt install oxide on Kali Linux
 
 **Дизайнер · Архитектор интерфейсов** — Королева эстетики OXIDE, architect of the 和色 washoku palette, gradient system, braille spinners, Japanese HTML report theme.
 
-[![Lyara-Koroleva](https://img.shields.io/badge/_Ляра--Королева-8B81C3?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=2A0040)](https://github.com/lyara20/About.Me)
+[![Lyara-Koroleva](https://img.shields.io/badge/_Ляра--Королева-8B81C3?style=for-the-badge&logo=pinboard&logoColor=FFF&labelColor=F5F0FA)](https://github.com/lyara20/About.Me)
 
 > *"Красота — это не опция, это стандарт."*
 
 ---
 
-[![Battle Tested](https://img.shields.io/badge/_Battle_Tested-Proven-E83929?style=for-the-badge&logo=speedtest&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
+[![Battle Tested](https://img.shields.io/badge/_Battle_Tested-Proven-E83929?style=for-the-badge&logo=speedtest&logoColor=FFF&labelColor=FFE8E0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
 OXIDE was put through a hardened battle test against a custom target with **5 deeply buried vulnerabilities** — no links, probe filtering, header-only CMDi, JSON-gated NoSQLi, blind timing-based SQLi, sourcemap credential leaks, and hidden debug endpoints. **OXIDE detected every single one.**
 
