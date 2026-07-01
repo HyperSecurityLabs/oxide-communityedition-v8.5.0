@@ -1,7 +1,7 @@
 
 # OXIDE-v8.6.9-Community-Edition
 **Precision-forged Rust vulnerability scanner**  
-*HyperSecurity Offensive Labs ·*   
+HyperSecurity Offensive Labs   
 Levershin FP Reduction · Zero-Day ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster · 和色 Palette
 
 <img width="1440" height="900" alt="Screenshot_2026-07-01_12_38_54" src="https://github.com/user-attachments/assets/fb7e854a-b362-443b-b447-8fce97dd0311" />
