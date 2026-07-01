@@ -152,7 +152,6 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Async/await concurrent architecture: tokio-based agent pool with `join_all` parallel dispatch for high-speed multi-target scanning
 - Chunk-based async fuzzing engine: concurrent payload injection across all modules with adaptive worker scaling
 - Zero-copy async TCP connect scanner with `tokio::net::TcpStream` for rapid port/probe scanning
-- `tokio::select!` cancellable scan pipeline with graceful Ctrl-C and resource cleanup
 
 ## WAF12 Evasion Suite
 - 12 evasion techniques across 4 major WAF profiles (CloudFlare, ModSecurity, AWS WAF, Imperva/Incapsula)
@@ -186,7 +185,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Adaptive Bayesian rate-limit evasion with EMA confidence smoothing
 - PatternLearner: exponential moving average Bayesian-style confidence tracking
 
-## Levenshtein Resilient Analysis
+## Levenshtein Resilient Analysis (NEW)
 - `normalized_levenshtein` via `strsim` for URL deduplication with adaptive threshold (85%–97% based on exploitation level)
 - `response_similarity()`: Levenshtein distance between baseline and response for diff scoring
 - `response_diff_score()`: 1.0 − similarity for injection detection
