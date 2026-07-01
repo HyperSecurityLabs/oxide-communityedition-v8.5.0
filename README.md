@@ -18,6 +18,8 @@ Levershin FP Reduction · Zero-Day ML Anomaly Engine · WAF Massacre · Headless
 
 </div>
 
+---
+
 [![Unauthorized use prohibited](https://img.shields.io/badge/UNATHORIZED_USE-PROHIBITED-E83929?style=for-the-badge&labelColor=1A1A1A)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 
 OXIDE is a weapon-grade security tool. In the wrong hands, its capabilities cause severe disruption. You are solely responsible for how you use it.
@@ -27,7 +29,7 @@ OXIDE is a weapon-grade security tool. In the wrong hands, its capabilities caus
 - DO use for authorized penetration testing, CTFs, labs, and security research.
 Violators assume full legal liability. HSOL bears no responsibility for misuse.
 
-[![Final Release](https://img.shields.io/badge/%E2%AC%85_FINAL_RELEASE_%E5%AE%8C%E4%BA%86-YAMABUKI_%E5%B1%B1%E5%90%B9-FFB11B?style=for-the-badge&labelColor=1A1A1A)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
+[![Final Release](https://img.shields.io/badge/FINAL-RELEASE-FFB11B?style=for-the-badge&labelColor=1A1A1A)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 
 > OXIDE has reached its final release as a standard offensive security scanner. With async concurrent architecture, WAF12 evasion suite,AI/ML zero-day engine, Bayesian confidence scoring, Levenshtein precision analysis, and 14 detection modules — it now stands complete.
 
