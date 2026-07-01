@@ -193,7 +193,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Fuzzing dedup count display: real-time Levenshtein-filtered unique payload analysis
 - Exploitation level system (1–100) maps to dedup threshold, payload count, and error tolerance
 
-## Japanese Washoku Visual Theme
+## Japanese Washoku Visual Theme (NEW)
 - CLI palette: SHU (朱 #E83929), SAKURA (桜 #FEDFE1), HISUI (翡翠 #38B48B), WAKABA (若葉 #8BB85C), TSUYUKUSA (露草 #2EA9DF), FUJI (藤 #8B81C3), GIN (銀 #91989F), SHIKKOKU (漆黒 #1A1A1A)
 - GUI "CyberPunk2077-Interface": CSS custom properties with `--jpn-` prefixed color tokens
 - Japanese code annotations throughout: `電脳走査`, `和色パレット`, `ゼロデイ電脳検出`
@@ -206,7 +206,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - HPP (HTTP Parameter Pollution) detector with 8+ test payload types
 - Distributed cluster scanning: master/agent TCP architecture with JSON messaging
 
-## Fuzzing Engine
+## Fuzzing Engine (IMPROVED)
 - 8 payload categories: SQLi (error/union/time/boolean/stacked/WAF/noSQL/destructive), XSS, SSTI (Jinja2/Freemarker/Velocity/Smarty), LFI (path traversal/PHP wrappers), CMDi (basic/OOB/time-based/reverse shell/Windows), NoSQL, destructive SQL
 - 6000+ tech-aware paths and injection templates
 - Encoder: URL/Base64/Hex/Unicode/HTML entity with mixed encoding modes
